@@ -28,4 +28,8 @@ Hoje compartilho o guia que eu gostaria de ter tido no começo:
 
 ✅ Renomear coluna? → AS
 
-Com elas você resolve 80% dos problemas do dia a dia.
+Com eles você resolve 80% dos problemas do dia a dia.
+
+
+<img width="523" height="548" alt="image" src="https://github.com/user-attachments/assets/131639b3-03be-4ee3-a790-1847e28d2740" />
+
